@@ -1,0 +1,36 @@
+$kind: http-request
+name: http://localhost/toko-api/public/registrasi
+description: ""
+url: http://localhost/toko-api/public/login
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"email\": \"admin@admin.com\",\r
+
+    \    \"password\": \"admin\"\r
+
+    }"
+  $type: "{\r
+
+    \    \"code\": 200,\r
+
+    \    \"status\": true,\r
+
+    \    \"data\": {\r
+
+    \        \"token\": \"Mdj8yPsp8cNbckNe1dmMikggebcYggrU2duFIztyIGJIdFdN3AkbYMgLzvds9Km9mffrQTsKeQDKOzbHKE1VbbNswofPiEuN91Cy\",\r
+
+    \        \"user\": {\r
+
+    \            \"id\": \"1\",\r
+
+    \            \"email\": \"admin@admin.com\"\r
+
+    \        }\r
+
+    \    }\r
+
+    }"
+order: 1000
