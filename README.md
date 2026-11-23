@@ -27,6 +27,7 @@ Pada pertemuan pertama, praktikum berfokus pada pembuatan aplikasi TokoKita meng
 
 Praktikum ini memberikan pemahaman mengenai dasar pengembangan aplikasi mobile menggunakan Flutter, khususnya dalam penyusunan struktur project, pembuatan model data, pembuatan antarmuka, dan navigasi antarhalaman.
 
+
 ## 📝 Tugas 2
 **Tanggal**: Selasa, 17 November 2026
 
@@ -34,7 +35,7 @@ Praktikum ini memberikan pemahaman mengenai dasar pengembangan aplikasi mobile m
 
 ![Screenshot 1](./SS5.jpeg)  
 
-![Screenshot 2](./SS6.jpeg)  
+![Screenshot 1](./SS6.jpeg)
 
 ### 📌 Kesimpulan Praktikum
 
